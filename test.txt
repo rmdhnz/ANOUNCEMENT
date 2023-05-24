@@ -1,0 +1,1 @@
+[{"nama":"Cristiano Ronaldo","nrp":5022211076},{"nama":"Lionel Messi","nrp":5025211090},{"nama":"Neymar Jr","nrp":5024211045}]

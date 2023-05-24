@@ -1,0 +1,314 @@
+[
+  {
+    "No": 1,
+    "Nama": "Julianty Nurani Putri",
+    "NRP": 2042221003,
+    "Position": "Vice Secretary"
+  },
+  {
+    "No": 2,
+    "Nama": "Fellyla Fiorenza Wilianto",
+    "NRP": 5025221110,
+    "Position": "Vice Treasurer"
+  },
+  {
+    "No": 3,
+    "Nama": "Kevin Firmansyah",
+    "NRP": 5022221187,
+    "Position": "Staff of Public Relation"
+  },
+  {
+    "No": 4,
+    "Nama": "Yosua Hares",
+    "NRP": 5025221270,
+    "Position": "Staff of Public Relation"
+  },
+  {
+    "No": 5,
+    "Nama": "Putu Krishna Masari Kumara",
+    "NRP": 5022211226,
+    "Position": "Staff of Public Relation"
+  },
+  {
+    "No": 6,
+    "Nama": "Azeeza Agrippina Lesmana",
+    "NRP": 5048221032,
+    "Position": "Staff of Public Relation"
+  },
+  {
+    "No": 7,
+    "Nama": "Rasya Anida Sabila Hastuti",
+    "NRP": 5022221059,
+    "Position": "Staff of Human Resources"
+  },
+  {
+    "No": 8,
+    "Nama": "Jiryan Farokhi",
+    "NRP": 5002221102,
+    "Position": "Staff of Human Resources"
+  },
+  {
+    "No": 9,
+    "Nama": "Aisyah Rohmatul Hasanah",
+    "NRP": 5022211158,
+    "Position": "Staff of Sponsorship"
+  },
+  {
+    "No": 10,
+    "Nama": "Nia Noercahyaningsih",
+    "NRP": 5046221002,
+    "Position": "Staff of Sponsorship"
+  },
+  {
+    "No": 11,
+    "Nama": "Hening Mestika Langit",
+    "NRP": 5049221004,
+    "Position": "Staff of Sponsorship"
+  },
+  {
+    "No": 12,
+    "Nama": "Safinatun Najah",
+    "NRP": 5048221031,
+    "Position": "Staff of Sponsorship"
+  },
+  {
+    "No": 13,
+    "Nama": "Willy Aelredus Irianto",
+    "NRP": 5022221148,
+    "Position": "Staff of Fundraising"
+  },
+  {
+    "No": 14,
+    "Nama": "Jones Adpenta Ginting",
+    "NRP": 5022211182,
+    "Position": "Staff of Fundraising"
+  },
+  {
+    "No": 15,
+    "Nama": "Nicholas Nathanael Nababan",
+    "NRP": 2039211054,
+    "Position": "Staff of Fundraising"
+  },
+  {
+    "No": 16,
+    "Nama": "Royce Giovano Sutikno",
+    "NRP": 5012221011,
+    "Position": "Staff of Fundraising"
+  },
+  {
+    "No": 17,
+    "Nama": "Rivansyah Raditya Hardinata",
+    "NRP": 5022211131,
+    "Position": "Staff of Creative Design"
+  },
+  {
+    "No": 18,
+    "Nama": "Kaia Bethani Laksita",
+    "NRP": 5028211055,
+    "Position": "Staff of Creative Design"
+  },
+  {
+    "No": 19,
+    "Nama": "Layyin A'ziemah Zahra",
+    "NRP": 5028211075,
+    "Position": "Staff of Creative Design"
+  },
+  {
+    "No": 20,
+    "Nama": "Faiz Akbar Parinduri",
+    "NRP": 5049221027,
+    "Position": "Staff of Creative Design"
+  },
+  {
+    "No": 21,
+    "Nama": "Daniel Egidio",
+    "NRP": 5010211057,
+    "Position": "Staff of Creative Design"
+  },
+  {
+    "No": 22,
+    "Nama": "Reynaldi Neo Ramadhani",
+    "NRP": 5025221265,
+    "Position": "Staff of Web Development"
+  },
+  {
+    "No": 23,
+    "Nama": "Reynaldi Dwi Cahya",
+    "NRP": 5007221004,
+    "Position": "Staff of Strategy & Growth"
+  },
+  {
+    "No": 24,
+    "Nama": "M. Rizqi Rahmansyah Herlambang",
+    "NRP": 5022221233,
+    "Position": "Staff of Strategy & Growth"
+  },
+  {
+    "No": 25,
+    "Nama": "Gerald Mahapranaja Pillian",
+    "NRP": 5026221050,
+    "Position": "Staff of Strategy & Growth"
+  },
+  {
+    "No": 26,
+    "Nama": "Tanaya Hannani Nur Azmina",
+    "NRP": 5049221003,
+    "Position": "Staff of Strategy & Growth"
+  },
+  {
+    "No": 27,
+    "Nama": "Hanalda Wanda Hardiwan",
+    "NRP": 5023211066,
+    "Position": "Staff of Strategy & Growth"
+  },
+  {
+    "No": 28,
+    "Nama": "Christian Amadeus Gunawan",
+    "NRP": 2040221063,
+    "Position": "Staff of Competition"
+  },
+  {
+    "No": 29,
+    "Nama": "M. Wahyu Kurnianto Hidayat",
+    "NRP": 5022211024,
+    "Position": "Staff of Competition"
+  },
+  {
+    "No": 30,
+    "Nama": "Faiza Haqqi Risanta",
+    "NRP": 5022221135,
+    "Position": "Staff of Competition"
+  },
+  {
+    "No": 31,
+    "Nama": "Sukma Via Deaswa Rahmalia",
+    "NRP": 5048221028,
+    "Position": "Staff of Competition"
+  },
+  {
+    "No": 32,
+    "Nama": "Tiffany Ade Cicilia",
+    "NRP": 5023211044,
+    "Position": "Staff of Competition"
+  },
+  {
+    "No": 33,
+    "Nama": "Kevin Viandra Aditya",
+    "NRP": 5009221107,
+    "Position": "Staff of Competition"
+  },
+  {
+    "No": 34,
+    "Nama": "Adlan Arisyi",
+    "NRP": 5023211069,
+    "Position": "Staff of Competency Development"
+  },
+  {
+    "No": 35,
+    "Nama": "Rafi Rabbani",
+    "NRP": 5022211201,
+    "Position": "Staff of Competency Development"
+  },
+  {
+    "No": 36,
+    "Nama": "Ecce Kamila Ajeng Zahabiya",
+    "NRP": 5004221101,
+    "Position": "Staff of Competency Development"
+  },
+  {
+    "No": 37,
+    "Nama": "Nathania Cahya Romadhona",
+    "NRP": 5049221016,
+    "Position": "Staff of Competency Development"
+  },
+  {
+    "No": 38,
+    "Nama": "Mega Dewi Khadijah",
+    "NRP": 5022211042,
+    "Position": "Staff of Competency Development"
+  },
+  {
+    "No": 39,
+    "Nama": "Thimoty Brenden Linelejan",
+    "NRP": 5022221023,
+    "Position": "Staff of Community Outreach"
+  },
+  {
+    "No": 40,
+    "Nama": "Rayhan Noumi Sulistyo",
+    "NRP": 5022211128,
+    "Position": "Staff of Community Outreach"
+  },
+  {
+    "No": 41,
+    "Nama": "Rayhan Fathurrahman Zata Amani",
+    "NRP": 5025221092,
+    "Position": "Staff of Community Outreach"
+  },
+  {
+    "No": 42,
+    "Nama": "Muhamad Jordan Toyimullah Harapan",
+    "NRP": 5022221147,
+    "Position": "Staff of Community Outreach"
+  },
+  {
+    "No": 43,
+    "Nama": "Ahmad Ahlul Hikam",
+    "NRP": 5022211104,
+    "Position": "Staff of Project & Journal"
+  },
+  {
+    "No": 44,
+    "Nama": "Rahma Alyanurfathia",
+    "NRP": 2040211109,
+    "Position": "Staff of Project & Journal"
+  },
+  {
+    "No": 45,
+    "Nama": "Adhitya Valentino Putra",
+    "NRP": 5009211126,
+    "Position": "Staff of Project & Journal"
+  },
+  {
+    "No": 46,
+    "Nama": "Maulana Mahdi Wahyu Zahputra",
+    "NRP": 5020211041,
+    "Position": "Staff of Project & Journal"
+  },
+  {
+    "No": 47,
+    "Nama": "Albert Einsthan",
+    "NRP": 5022211176,
+    "Position": "Staff of Project & Journal"
+  },
+  {
+    "No": 48,
+    "Nama": "Achmad Hisyam Kamil",
+    "NRP": 5022221061,
+    "Position": "Staff of Project & Journal"
+  },
+  {
+    "No": 49,
+    "Nama": "Muhammad Shafa Raihan",
+    "NRP": 5008221145,
+    "Position": "Staff of Learning Development"
+  },
+  {
+    "No": 50,
+    "Nama": "Arya Nugraha Aulia Rahman Yusup",
+    "NRP": 5022221142,
+    "Position": "Staff of Learning Development"
+  },
+  {
+    "No": 51,
+    "Nama": "Mohamad Yusuf Ardiansyah",
+    "NRP": 2040221127,
+    "Position": "Staff of Learning Development"
+  },
+  {
+    "No": 52,
+    "Nama": "Ibrahim Muhammad",
+    "NRP": 5022221131,
+    "Position": "Staff of Learning Development"
+  }
+]
