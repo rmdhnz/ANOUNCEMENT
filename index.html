@@ -33,11 +33,23 @@
                     />
                   </div>
                   <button
-                    class="btn btn-primary"
+                    class="btn btn-primary btn-kirim"
                     type="submit"
                     value="register"
                   >
                     Check
+                  </button>
+                  <button
+                    class="btn btn-loading d-none btn-primary"
+                    type="button"
+                    disabled
+                  >
+                    <span
+                      class="spinner-border spinner-border-sm"
+                      role="status"
+                      aria-hidden="true"
+                    ></span>
+                    Loading...
                   </button>
                 </form>
               </div>
@@ -46,10 +58,26 @@
         </div>
       </div>
     </section>
-    <section class="lulus">
+    <section class="lulus d-none">
       <div class="container">
         <div class="row mt-5 justify-content-center">
-          <div class="col-md-8 banner bg-primary"></div>
+          <div class="col-md-8 banner bg-primary">
+            <p class="text-light fw-bold display-5">
+              Congratulations, you are selected to be the part of us
+            </p>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section class="gagal d-none">
+      <div class="container">
+        <div class="row mt-5">
+          <div class="col-md-8 banner bg-danger">
+            <p class="text-light fw-bold display-5">
+              Sorry! You are declared not passed to become IEEE staff. Keep the
+              spirit and good luck on another occasion
+            </p>
+          </div>
         </div>
       </div>
     </section>
